@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 // import ReactDOM from "react-dom";
 
 export default function ListComponent(props) {
@@ -13,4 +13,3 @@ export default function ListComponent(props) {
     </ul>
   );
 };
-

@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 // import ReactDOM from "react-dom";
 
 import {data1} from "./store.js";
